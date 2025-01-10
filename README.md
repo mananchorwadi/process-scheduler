@@ -1,3 +1,5 @@
+Process Scheduler
+
 Problem Domain
 The problem of process scheduling arises in operating systems, where multiple processes compete for CPU time. Efficient process scheduling ensures fair resource allocation, reduces waiting time, improves CPU utilization, and enhances system throughput. The goal is to simulate scheduling algorithms to evaluate their performance under different workloads.
 
