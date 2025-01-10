@@ -31,3 +31,4 @@ class PriorityScheduler:
         scheduling_output += f"Average Turnaround Time: {avg_turnaround_time}\n"
         
         return scheduling_output  # Return the scheduling output as a string
+ 
